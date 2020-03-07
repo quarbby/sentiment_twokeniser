@@ -2,7 +2,7 @@ MPQA lexicon entry for [subjectivity polarity](http://people.cs.pitt.edu/~wiebe/
 
 +
 
-CMU ARK Twitter Part-of-Speech Tagger v0.3. Many thanks to [this python port](https://github.com/ljm233/ark_tweet_nlp_python/blob/master/twokeniser.py)
+CMU ARK Twitter Part-of-Speech Tagger [v0.3].(http://www.cs.cmu.edu/~ark/TweetNLP/owoputi+etal.naacl13.pdf) Many thanks to [this python port](https://github.com/ljm233/ark_tweet_nlp_python/blob/master/twokeniser.py)
 
 Usage:
 ```
